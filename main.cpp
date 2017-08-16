@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-    //init app
+
     QApplication a(argc, argv);
     alpoyata w;
     w.show();

@@ -1577,4 +1577,5 @@ DISTFILES += \
     youtube-dl/youtube_dl/version.py \
     youtube-dl/youtube_dl/YoutubeDL.py \
     youtube-dl/setup.py \
-    youtube-dl/youtube-dl
+    youtube-dl/youtube-dl \
+    youtube-dl/youtube-dl.exe

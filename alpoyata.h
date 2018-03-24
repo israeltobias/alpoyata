@@ -15,6 +15,11 @@ public:
     explicit alpoyata(QWidget *parent = 0);
     ~alpoyata();
 
+private slots:
+    void on_btnConvertAudio_clicked();
+
+    void on_lnEdVideoInput_editingFinished();
+
 private:
     Ui::alpoyata *ui;
 };
